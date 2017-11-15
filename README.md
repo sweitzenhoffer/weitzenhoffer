@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to Scott's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/sweitzenhoffer/weitzenhoffer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I used the [editor on GitHub](https://github.com/sweitzenhoffer/weitzenhoffer/edit/master/README.md) to modify and preview this content for my website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I committed to the repository, so GitHub Pages ran [Jekyll](https://jekyllrb.com/) to rebuild my site, from the content in my Markdown files.
 
 ### Markdown
 
